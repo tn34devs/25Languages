@@ -1,21 +1,18 @@
-# 25Languages
-Basic Program in 25 Most Used Languages
-
 
 # 25 Languages - Basic Program
 
 |TN34DeVs | January 30, 2022 |
 |-------------------------|--|
 
-
+If you find this useful, Subscribe to Our Channel [TN34DeVs](https://www.youtube.com/channel/UCnWgev1Pr7mneQWYBJK21mA)
   
 
 **Output for all of the programs are same as below:**
 
-> Welcome to TN34DeVs
-> Number 1: 13 Number 2: 31
-> Total of Numbers 1 and 2 = 44
-> The Boolean Value: true
+ - > Welcome to TN34DeVs
+  - > Number 1: 13 Number 2: 31
+ -  > Total of Numbers 1 and 2 = 44
+ -  > The Boolean Value: true
 
    
 
@@ -587,3 +584,5 @@ Basic Program in 25 Most Used Languages
 
 [IDE Link](https://play.nim-lang.org/#ix=3Gh8) [IDE Link2](https://ideone.com/vslyAC)
 
+
+**Keep Visiting for more interesting Codeeeeeeeeeeeee..... ;-) **
